@@ -4,7 +4,8 @@ Ez a repozitórium különböző Java projektek gyűjteménye, melyek példákat
 ## Tartalom
 
 A repó jelenlegi projektjei:
-- **01.ProjectMain**: Egy egyszerű kő papír olló játék. 2024/10/30
+- **01.Project**: Egy egyszerű kő papír olló játék. 2024/10/30
+- **02.Project**: Egy egyszerű számológép. 2024/11/09
 
 ## Követelmények
 
@@ -65,5 +66,3 @@ A projektek mappákba rendezve találhatók:
 ## Kapcsolat
 
 Ha kérdésed van vagy hibát találtál, nyiss egy [issue](https://github.com/felhasznalonev/repo-neve/issues)-t vagy küldj egy emailt: **doomhyenaofficial@gmail.com**
-
-Ez a felépítés segíti a felhasználókat abban, hogy megértsék a repó célját, és könnyen megtalálják, hogyan futtathatják a projekteket, valamint elérjék a hasznos forrásokat és kapcsolatot veled.
