@@ -46,7 +46,11 @@ A projektek mappákba rendezve találhatók:
 ```
 /root-repo
 │
-├── 01.ProjectMain/
+├── 01.Project/
+│   ├── src/
+│   └── README.md
+│
+├── 02.Project/
 │   ├── src/
 │   └── README.md
 ```
