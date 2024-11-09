@@ -1,4 +1,4 @@
-# Java Projects Repository
+# Java-Projektek Repository
 
 Ez a repozitórium különböző Java projektek gyűjteménye, melyek példákat, gyakorlatokat és különféle feladatokat tartalmaznak Java nyelven.
 ## Tartalom
