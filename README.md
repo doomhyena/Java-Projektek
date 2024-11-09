@@ -53,6 +53,7 @@ A projektek mappákba rendezve találhatók:
 ├── 02.Project/
 │   ├── src/
 │   └── README.md
+└──
 ```
 
 ## Hasznos források
