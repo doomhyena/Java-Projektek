@@ -1,6 +1,6 @@
 # Java-Projektek Repository
 
-Ez a repozitórium különböző Java projektek gyűjteménye, melyek példákat, gyakorlatokat és különféle feladatokat tartalmaznak Java nyelven.
+Ez a repository különböző Java projektek gyűjteménye, melyek példákat, gyakorlatokat és különféle feladatokat tartalmaznak Java nyelven.
 ## Tartalom
 
 A repó jelenlegi projektjei:
@@ -65,4 +65,4 @@ A projektek mappákba rendezve találhatók:
 
 ## Kapcsolat
 
-Ha kérdésed van vagy hibát találtál, nyiss egy [issue](https://github.com/felhasznalonev/repo-neve/issues)-t vagy küldj egy emailt: **doomhyenaofficial@gmail.com**
+Ha kérdésed van vagy hibát találtál, nyiss egy [issue](https://github.com/doomhyena/java-projektek/issues)-t vagy küldj egy emailt: **doomhyenaofficial@gmail.com**
