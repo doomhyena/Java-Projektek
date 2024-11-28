@@ -6,6 +6,7 @@ Ez a repository különböző Java projektek gyűjteménye, melyek példákat, g
 A repó jelenlegi projektjei:
 - **01.Project**: Egy egyszerű kő papír olló játék. 2024/10/30
 - **02.Project**: Egy egyszerű számológép. 2024/11/09
+- **03.Project**: Discord Rich Presence. 2024/11/28
 
 ## Követelmények
 
@@ -52,6 +53,10 @@ A projektek mappákba rendezve találhatók:
 │   └── README.md
 │
 ├── 02.Project/
+│   ├── src/
+│   └── README.md
+│
+├── 03.Project/
 │   ├── src/
 │   └── README.md
 └──
