@@ -64,7 +64,10 @@ A projektek mappákba rendezve találhatók:
 ├── 04.Project/
 │   ├── src/
 │   └── README.md
-└──
+│
+└── 05.Project/
+    ├── src/
+    └── README.md
 ```
 
 ## Hasznos források
