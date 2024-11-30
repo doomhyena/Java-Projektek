@@ -1,5 +1,5 @@
 
-# Kő-Papír-Olló Játék - Java 
+#  Java Kő-Papír-Olló Játék 
 
 Ez a projekt egy klasszikus **Kő-Papír-Olló** játékot valósít meg Java nyelven. A játékos a számítógép ellen játszik, amely véletlenszerűen választja ki a saját lépését. A cél az, hogy megverjük a gépet a hagyományos szabályok szerint: **Kő** üti az **Ollót**, **Olló** üti a **Papírt**, **Papír** üti a **Követ**.
 
