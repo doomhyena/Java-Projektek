@@ -1,5 +1,4 @@
-
-# **Használati Utasítás**
+# Java Discord Rich Presence 
 
 ## **1. Maven Projekt Létrehozása**
 1. Nyiss egy terminált vagy IDE-t (pl. IntelliJ IDEA vagy Eclipse).
