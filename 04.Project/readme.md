@@ -1,4 +1,4 @@
-# Todo Lista - Java Alkalmazás
+# Java Todo Lista
 
 Ez egy egyszerű konzolos Todo Lista alkalmazás Java nyelven. Az alkalmazás lehetővé teszi a felhasználóknak, hogy:
 - Új feladatokat adjanak hozzá.
