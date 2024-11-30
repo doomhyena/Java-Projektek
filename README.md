@@ -8,6 +8,7 @@ A repó jelenlegi projektjei:
 - **02.Project:** Egy egyszerű számológép. 2024/11/09
 - **03.Project:** Discord Rich Presence. 2024/11/28
 - **04.Project:** Todo lista. 2024/11/29
+- **05.Project:** Számkitalálós játék 2024/11/30
 
 ## Követelmények
 
