@@ -1,6 +1,6 @@
-### Java Szótár
+# Java Szótár
 
-#### **Program Áttekintése**
+## **Program Áttekintése**
 Ez a Java program egy egyszerű szótár funkcióit valósítja meg, lehetőséget biztosítva szavak hozzáadására és azok jelentéseinek keresésére. A program menüvezérelt, és a fő funkciók osztályokba és metódusokba vannak szervezve, ami elősegíti az átláthatóságot és az újrahasznosíthatóságot.
 
 ---
@@ -33,10 +33,10 @@ Ez a Java program egy egyszerű szótár funkcióit valósítja meg, lehetőség
 #### **1. `Main` Osztály**
 Ez az osztály tartalmazza a fő program logikáját és a szótárat tároló adatstruktúrát.
 
-##### **Attribútumok**
+#### **Attribútumok**
 - `private HashMap<String, String> dictionary`: A szótár, amely a szavakat és jelentéseiket tárolja.
 
-##### **Metódusok**
+#### **Metódusok**
 
 1. **Konstruktor**:
    - A konstruktor inicializálja a `dictionary` adattagot:
