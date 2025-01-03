@@ -23,7 +23,7 @@ A projektek futtatásához szükséges:
 
 1. Klónozd a repozitóriumot:
    ```bash
-   git clone https://github.com/felhasznalonev/repo-neve.git
+   git clone https://github.com/doomhyena/Java-Projektek.git
    cd repo-neve
    ```
 2. Navigálj a kívánt projekt mappájába.
