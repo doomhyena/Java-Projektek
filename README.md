@@ -89,4 +89,4 @@ A projektek mappákba rendezve találhatók:
 
 ## Kapcsolat
 
-Ha kérdésed van vagy hibát találtál, nyiss egy [issue](https://github.com/doomhyena/java-projektek/issues)-t vagy küldj egy emailt: **doomhyenaofficial@gmail.com**
+Ha kérdésed van vagy hibát találtál, nyiss egy [issue](https://github.com/doomhyena/java-projektek/issues)-t vagy küldj egy emailt: **doomhyena.contact@proton.me**
