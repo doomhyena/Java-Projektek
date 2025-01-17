@@ -11,6 +11,7 @@ A repó jelenlegi projektjei:
 - **05.Project:** Számkitalálós játék 2024/11/30
 - **06.Project:** Szótár 2024/12/01
 - **07.Project:** Számtani sorozat 2024/12/02
+- **08.Project:** Matematikai Játék Program 2025/01/17
 
 ## Követelmények
 
@@ -76,7 +77,11 @@ A projektek mappákba rendezve találhatók:
 │   ├── src/
 │   └── README.md
 │
-└── 07.Project/
+├── 07.Project/
+│   ├── src/
+│   └── README.md
+│
+└── 08.Project/
     ├── src/
     └── README.md
 ```
@@ -89,4 +94,4 @@ A projektek mappákba rendezve találhatók:
 
 ## Kapcsolat
 
-Ha kérdésed van vagy hibát találtál, nyiss egy [issue](https://github.com/doomhyena/java-projektek/issues)-t vagy küldj egy emailt: **doomhyena.contact@proton.me**
+Ha kérdésed van vagy hibát találtál, nyiss egy [issue](https://github.com/doomhyena/java-projektek/issues)-t vagy küldj egy emailt: **doomhyenaofficial@gmail.com**
