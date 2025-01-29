@@ -25,7 +25,7 @@ A projektek futtatásához szükséges:
 1. Klónozd a repozitóriumot:
    ```bash
    git clone https://github.com/doomhyena/Java-Projektek.git
-   cd repo-neve
+   cd Java-Projektek
    ```
 2. Navigálj a kívánt projekt mappájába.
 3. Kompile és futtasd a projektet:
