@@ -13,6 +13,7 @@ A repó jelenlegi projektjei:
 - **07.Project:** Számtani sorozat 2024/12/02
 - **08.Project:** Matematikai Játék Program 2025/01/17
 - **09.Project:** Jelszógenerátor 2025/02/04
+- **10.Project:** Ragozás 2025/03/15
 
 ## Követelmények
 
@@ -86,7 +87,11 @@ A projektek mappákba rendezve találhatók:
 │   ├── src/
 │   └── README.md
 │
-└── 09.Project/
+├── 09.Project/
+│   ├── src/
+│   └── README.md
+│
+└── 10.Project/
     ├── src/
     └── README.md
 ```
